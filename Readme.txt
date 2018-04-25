@@ -2,6 +2,6 @@ Lingxiao He, Jian Liang, Haiqing Li and Zhenan Sun. Deep Spatial Feature Reconst
 
 Plese kindly cite this paper if you compare DSR in your research.
 
-Fearure url： https://pan.baidu.com/s/1NQT-68m9pC-KmYma0JwM1Q
+Feature url： https://pan.baidu.com/s/1NQT-68m9pC-KmYma0JwM1Q
 Single-shot rank-1: 55.00%
 Multi-shot rank-1: 66.33%
